@@ -1,7 +1,7 @@
 # chungus2.github.io
 
 <!DOCTYPE html>
-<html ><head><meta charset=utf-8" /><title>Things i like to do</title></head>
+<html ><head><meta charset=utf-8" /></head>
 <body>
         <h1>Most Popular Ice Cream Flavors </h1>
         <table><tr><th>Rank</th><th>Flavor</th></tr>
