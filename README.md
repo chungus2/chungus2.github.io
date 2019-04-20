@@ -9,7 +9,7 @@
         <tr><td>2</td><td>Go to the gym <img src="https://static01.nyt.com/images/2018/01/10/us/10xp-gym1/10xp-gym1-articleLarge.jpg?quality=75&auto=webp&disable=upscale" height=100 width=100/></td></tr>
         <tr><td>3</td><td>Hang out with my friends</td></tr>
         <tr><td>4</td><td>go to the beach <img src="https://www.atlantisbahamas.com/media/Things%20To%20Do/Water%20Park/Beaches/Hero/Experiences_Beach.jpg" height=100 width=100/> </td></tr>
-        <tr><td>5</td><td>Make money</td></tr></table>
+        <tr><td>5</td><td>Make money <img src="https://stillnessinthestorm.com/wp-content/uploads/2019/02/large-pile-of-hundred-dollar-bills-cash-money-savings-rich_large.jpg" height=100 width=100/> </td></tr></table>
 </body>
 </html>
 
