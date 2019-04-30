@@ -12,5 +12,3 @@
         <tr><td>5</td><td>Make money <img src="https://stillnessinthestorm.com/wp-content/uploads/2019/02/large-pile-of-hundred-dollar-bills-cash-money-savings-rich_large.jpg" height=100 width=100/> </td></tr></table>
 </body>
 </html>
-
- 
